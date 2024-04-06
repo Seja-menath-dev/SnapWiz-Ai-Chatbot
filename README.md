@@ -1,8 +1,8 @@
 # SnapWiz AI Chat Bot
 
-## Web site
+## Web site  
 
-#### https://snapwizai.web.app
+[Visit our website]( https://snapwizai.web.app){: .btn .btn-blue}
 
 
 ![Screenshot 2024-04-07 004816](https://github.com/Seja-menath-dev/SnapWiz-Ai-Chatbot/assets/166058763/58aca336-e193-4331-a76d-5521b7d40345)
