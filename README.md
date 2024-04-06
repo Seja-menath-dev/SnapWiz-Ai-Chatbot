@@ -26,10 +26,6 @@ Welcome to SnapWiz AI Chat Bot! This chat bot, developed by Meta Colombo, is des
 
 ![Screenshot 2024-04-07 004828](https://github.com/Seja-menath-dev/SnapWiz-Ai-Chatbot/assets/166058763/67e7dcca-851c-42e0-89bd-b3586479fd48)
 
-![Screenshot 2024-04-07 004840](https://github.com/Seja-menath-dev/SnapWiz-Ai-Chatbot/assets/166058763/9eaebe38-e435-469c-8629-c8c39c6e66c6)
-
-
-
 
 1. **Initiate Interaction:** Simply start a conversation by saying "Hi" or typing your query in the chat window.
   
@@ -38,6 +34,10 @@ Welcome to SnapWiz AI Chat Bot! This chat bot, developed by Meta Colombo, is des
 3. **Receive Responses:** SnapWiz will promptly provide informative and accurate responses, helping you accomplish your objectives efficiently.
   
 4. **Feedback:** Your feedback is invaluable! Let us know how we can further improve SnapWiz to better meet your expectations.
+
+
+![Screenshot 2024-04-07 004840](https://github.com/Seja-menath-dev/SnapWiz-Ai-Chatbot/assets/166058763/9eaebe38-e435-469c-8629-c8c39c6e66c6)
+
 
 ## Contact Information
 
