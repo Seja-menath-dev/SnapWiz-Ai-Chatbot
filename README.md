@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Welcome to SnapWiz AI Chat Bot! This chat bot, developed by Meta Colombo, is designed to enhance your user experience by providing intelligent responses and assistance. Whether you're a business owner looking to automate customer support or a curious user exploring the capabilities of AI, SnapWiz is here to help.
+Welcome to SnapWiz AI Chat Bot! This chat bot, developed by Pettah Ai, is designed to enhance your user experience by providing intelligent responses and assistance. Whether you're a business owner looking to automate customer support or a curious user exploring the capabilities of AI, SnapWiz is here to help.
 
 ## Key Features
 
