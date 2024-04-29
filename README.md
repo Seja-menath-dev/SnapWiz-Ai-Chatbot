@@ -46,4 +46,4 @@ For further inquiries, feedback, or collaboration opportunities, please don't he
 
 ## Powered By
 
-SnapWiz AI Chat Bot is proudly powered by Meta Colombo, a leading developer renowned for its expertise in delivering innovative AI-powered solutions that drive business growth and customer satisfaction.
+SnapWiz AI Chat Bot is proudly powered by Pettah Ai, a leading developer renowned for its expertise in delivering innovative AI-powered solutions that drive business growth and customer satisfaction.
